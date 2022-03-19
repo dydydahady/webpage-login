@@ -1,19 +1,19 @@
 # How to Run
 In Terminal 1, run:
 
-'''
+```
 cd webpage-login
 node server.js
-'''
+```
 
 This is to start a local server
 
 In Terminal 2, run:
 
-'''
+```
 webpage-login
 npm start
-'''
+```
 
 Available pages are:
 [http://localhost:3000](http://localhost:3000)
